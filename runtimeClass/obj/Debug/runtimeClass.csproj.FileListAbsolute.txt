@@ -1,0 +1,21 @@
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.exe.config
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.exe
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.pdb
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.Form1.resources
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.Properties.Resources.resources
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.exe
+C:\Users\Casper\Desktop\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.pdb
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.exe.config
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.exe
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\bin\Debug\runtimeClass.pdb
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.AssemblyReference.cache
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.Form1.resources
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.Properties.Resources.resources
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.GenerateResource.cache
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.csproj.CoreCompileInputs.cache
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.exe
+C:\Users\mert.kal\Desktop\Bireysel Çalışmalarım\BilgeAdamEğitim\Twitter Ve Diğer Büyük Projeler\C# Eğitim\runtimeClass\runtimeClass\obj\Debug\runtimeClass.pdb
